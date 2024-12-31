@@ -38,9 +38,9 @@ A **multi-threaded** reconnaissance framework for both **Web** and **Network** t
 
 This script references apt_requirements.txt and install_commands.txt for system packages and additional tools.
 
-**Usage**
+## Usage
 
-Module 1 (Silent):
+**Module 1 (Silent):**
 Run python multi_mode_recon_silent.py (example name).
 Menu appears, prompting for Web or Network, then Standard or Aggressive.
 Enter domain (Web) or IP/subnet (Network).
@@ -48,21 +48,21 @@ Wait for the scan to complete.
 A final summary table appears at the end.
 
 
-Module 2 (Logs):
+**Module 2 (Logs):**
 Run python multi_mode_recon_logs.py.
 Similar menu flow: select mode (Web/Network, Standard/Aggressive).
 Enter domain (Web) or IP/subnet (Network).
 See real-time logs line-by-line, with [tool_name] prefixes.
 Optionally a summary table or direct exit upon completion.
 
-Files
+## Files
 install.sh: Automated installer for Python packages and system tools.
 apt_requirements.txt: Lists packages for apt-get install.
 install_commands.txt: Additional commands or references for installing required tools.
 multi_mode_recon_silent.py (example): Discards logs, final summary only.
 multi_mode_recon_logs.py (example): Real-time logs, optional summary.
 
-License
+## License
 Open-source under the MIT License.
 Use responsibly on targets you have explicit permission to test.
 
