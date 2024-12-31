@@ -42,20 +42,25 @@ This script references apt_requirements.txt and install_commands.txt for system 
 
 ## Usage
 
-**Module 1 (Silent):**
-Run python multi_mode_recon_silent.py (example name).
-Menu appears, prompting for Web or Network, then Standard or Aggressive.
-Enter domain (Web) or IP/subnet (Network).
-Wait for the scan to complete.
-A final summary table appears at the end.
+**Module 1 (Silent Mode)**
+1. Run the silent mode script:
+```
+python3 multi_mode_recon_silent.py
+```
+2. Menu appears, prompting for Web or Network, then Standard or Aggressive.
+3. Enter a domain (for Web) or IP/subnet (for Network).
+4. Wait for the scan to complete.
+5. A final summary table appears at the end.
 
-
-**Module 2 (Logs):**
-Run python multi_mode_recon_logs.py.
-Similar menu flow: select mode (Web/Network, Standard/Aggressive).
-Enter domain (Web) or IP/subnet (Network).
-See real-time logs line-by-line, with MultiRecon-Tool prefixes.
-Optionally a summary table or direct exit upon completion.
+**Module 2 (Logs Mode)**
+1. Run the logs mode script:
+```
+python3 multi_mode_recon_logs.py
+```
+2. Menu appears, prompting for Web or Network, then Standard or Aggressive.
+3. Enter a domain (for Web) or IP/subnet (for Network).
+4. Observe real-time logs line-by-line, with MultiRecon-Tool prefixes.
+5. Optionally, a summary table is displayed at the end or the script exits upon completion.
 
 ## Files
 - **install.sh:** Automated installer for Python packages and system tools.
