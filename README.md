@@ -65,7 +65,6 @@ python3 multi_mode_recon_logs.py
 ## Files
 - **install.sh:** Automated installer for Python packages and system tools.
 - **apt_requirements.txt:** Lists packages for apt-get install.
-- **install_commands.txt:** Additional commands or references for installing required tools.
 - **multi_mode_recon_silent.py (example):** Discards logs, final summary only.
 - **multi_mode_recon_logs.py (example):** Real-time logs, optional summary.
 
