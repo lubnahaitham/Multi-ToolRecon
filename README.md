@@ -31,11 +31,13 @@ A **multi-threaded** reconnaissance framework for both **Web** and **Network** t
    ```bash
    git clone https://github.com/lubnahaitham/MultiRecon-Tool.git
    cd MultiRecon-Tool
+   ```
 
 2. Run the install.sh script to install dependencies automatically:
 
+```bash
 ./install.sh
-
+```
 This script references apt_requirements.txt and install_commands.txt for system packages and additional tools.
 
 ## Usage
