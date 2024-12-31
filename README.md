@@ -58,11 +58,11 @@ See real-time logs line-by-line, with MultiRecon-Tool prefixes.
 Optionally a summary table or direct exit upon completion.
 
 ## Files
-install.sh: Automated installer for Python packages and system tools.
-apt_requirements.txt: Lists packages for apt-get install.
-install_commands.txt: Additional commands or references for installing required tools.
-multi_mode_recon_silent.py (example): Discards logs, final summary only.
-multi_mode_recon_logs.py (example): Real-time logs, optional summary.
+**install.sh:** Automated installer for Python packages and system tools.
+**apt_requirements.txt:** Lists packages for apt-get install.
+**install_commands.txt:** Additional commands or references for installing required tools.
+**multi_mode_recon_silent.py (example):** Discards logs, final summary only.
+**multi_mode_recon_logs.py (example):** Real-time logs, optional summary.
 
 ## License
 Open-source under the MIT License.
