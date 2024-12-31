@@ -1,0 +1,12 @@
+# This file lists Linux packages (Debian/Ubuntu).
+theharvester
+whois
+dnsmap
+wafw00f
+unicornscan
+nmap
+testssl.sh
+amass
+dnsenum
+metagoofil
+exiftool
