@@ -7,7 +7,7 @@ A **multi-threaded** reconnaissance framework for both **Web** and **Network** t
    - Displays only a **final color-coded summary table**: *Success*, *Failed*, *Not Installed*.
 
 2. **Module 2 (Logs Mode)**
-   - Prints **line-by-line output** from each tool in real time (with `[tool_name]` prefixes).
+   - Prints **line-by-line output** from each tool in real time.
    - Optionally shows a **summary** table at the end or simply exits when done.
 
 ## Features
