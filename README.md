@@ -29,8 +29,8 @@ A **multi-threaded** reconnaissance framework for both **Web** and **Network** t
 
 1. **Clone** this repo:
    ```bash
-   git clone https://github.com/YourUsername/YourRepo.git
-   cd YourRepo
+   git clone https://github.com/lubnahaitham/Multi-ToolRecon.git
+   cd Multi-ToolRecon
 
 2. Run the install.sh script to install dependencies automatically:
 
