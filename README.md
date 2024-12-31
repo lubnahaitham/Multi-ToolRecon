@@ -28,10 +28,10 @@ A **multi-threaded** reconnaissance framework for both **Web** and **Network** t
 ## Installation
 
 1. **Clone** this repo:
-   ```bash
-   git clone https://github.com/lubnahaitham/MultiRecon-Tool.git
-   cd MultiRecon-Tool
-   ```
+```bash
+git clone https://github.com/lubnahaitham/MultiRecon-Tool.git
+cd MultiRecon-Tool
+```
 
 2. Run the install.sh script to install dependencies automatically:
 
