@@ -29,8 +29,8 @@ A **multi-threaded** reconnaissance framework for both **Web** and **Network** t
 
 1. **Clone** this repo:
    ```bash
-   git clone https://github.com/lubnahaitham/Multi-ToolRecon.git
-   cd Multi-ToolRecon
+   git clone https://github.com/lubnahaitham/MultiRecon-Tool.git
+   cd MultiRecon-Tool
 
 2. Run the install.sh script to install dependencies automatically:
 
@@ -52,7 +52,7 @@ A final summary table appears at the end.
 Run python multi_mode_recon_logs.py.
 Similar menu flow: select mode (Web/Network, Standard/Aggressive).
 Enter domain (Web) or IP/subnet (Network).
-See real-time logs line-by-line, with [tool_name] prefixes.
+See real-time logs line-by-line, with MultiRecon-Tool prefixes.
 Optionally a summary table or direct exit upon completion.
 
 ## Files
