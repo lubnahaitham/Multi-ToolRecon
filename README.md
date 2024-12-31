@@ -66,4 +66,3 @@ multi_mode_recon_logs.py (example): Real-time logs, optional summary.
 Open-source under the MIT License.
 Use responsibly on targets you have explicit permission to test.
 
-Feel free to **adjust** any file references (e.g., naming `multi_mode_recon_silent.py` to something else) or **add** additional usage details. This **`README.md`** provides a succinct overview of your **two modules** approach, references the **installer** scripts, and clarifies how to run each mode.
